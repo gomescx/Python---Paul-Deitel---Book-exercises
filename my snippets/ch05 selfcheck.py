@@ -1,6 +1,6 @@
 #%%
 # 05-02 3. cube_list function to cube each element of a list
-# ====================================================
+# =====================================================
 
 def cube_list(mylist):
     for i in range(0,len(mylist)):  
