@@ -39,7 +39,7 @@ print(numbers ** 2)
 
 # %%
 # 07-08 numpy array statistics
-# =============================
+# ============================
 # import numpy as np
 grades = np.array([np.random.randint(60,101) for x in range(12)]).reshape(3, 4)
 grades_class = grades.mean()

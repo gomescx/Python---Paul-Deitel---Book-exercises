@@ -1,6 +1,6 @@
 #%%
 # 06-02-02 Creating a dictionary of states
-# ========================================================
+# ======================================================
 from random import random
 from typing import Counter
 
